@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /api/
+Disallow: /devis/merci
+
+# Host
+Host: https://irshadservices.fr
+
+# Sitemaps
+Sitemap: https://irshadservices.fr/sitemap.xml
